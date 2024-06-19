@@ -101,3 +101,12 @@ export const podcastData = [
       'https://lovely-flamingo-139.convex.cloud/api/storage/221ee4bd-435f-42c3-8e98-4a001e0d806e',
   },
 ]
+
+export const voiceCategories = [
+  'alloy',
+  'shimmer',
+  'nova',
+  'echo',
+  'fable',
+  'onyx',
+]
